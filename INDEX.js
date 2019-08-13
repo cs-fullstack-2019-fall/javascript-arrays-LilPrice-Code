@@ -1,7 +1,7 @@
 function main() {
-    // exercise1();
-    // exercise2();
-    // exercise3();
+    exercise1();
+    exercise2();
+    exercise3();
 }
 main();
 function exercise1() {
@@ -20,6 +20,7 @@ function exercise2(){
 
     let myNum = [12,1124331,1233123,12312321,4231];
     console.log(myNum)
+    // PARTIAL CREDIT : use an array to print each item in the array
 }
 function exercise3() {
     // Exercise 3
